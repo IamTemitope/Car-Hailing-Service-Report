@@ -1,7 +1,6 @@
 # 🚖 Car Hailing Service Dashboard
 
-An **interactive Power BI dashboard** that visualizes the operational and financial performance of a ride-hailing service over a 6-month period.  
-This project simulates real-world fleet management and trip data to demonstrate skills in **data modeling, DAX measures, and business insight generation**.
+An **interactive Power BI dashboard** that visualizes the operational and financial performance of a ride-hailing service over a 6-month period. This project simulates real-world fleet management and trip data to demonstrate skills in **data modeling, DAX measures, and business insight generation**.
 
 ---
 
